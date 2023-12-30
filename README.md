@@ -1,6 +1,4 @@
-UNP-Project_BI-with-Power-BI_Human-resource
-The highlights of employee attrition rate include understanding why employees are leaving, identifying trends or patterns
-Implementing strategies to reduce attrition. By analyzing the data
-HR can make informed decisions to improve employee retention and create a positive work environment. 
-It's important for companies to address any underlying issues and provide opportunities for growth and development to retain valuable employees.
- link:https://github.com/Raajithagoud/UNP-Project_BI-with-Power-BI_Human-resource/blob/main/Employee_Attrition_Data.pdf.pdf
+Completed this project as a part of a value added course by UNITED NETWORK OF PROFESSIONALS. A high attrition rate can have several implications for an organistations. It may indicate dissatisfaction among employees, lack of engagement, or issues with other work environment. High turnover can be costly for business due to recruitment and training expenses, as well as potential disruptions in productivity and team dynamics.
+ PBIX: https://drive.google.com/file/d/13yRJY92UpWSDhrotejjbqHVQWHg4zfEu/view
+ PPT:
+ PDF:
